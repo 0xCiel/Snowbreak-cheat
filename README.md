@@ -1,6 +1,3 @@
-version: 3.2.0.164
-
-
 Features:
 
 Player:
