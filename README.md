@@ -1,3 +1,4 @@
+Global Version only
 Features:
 
 Player:
